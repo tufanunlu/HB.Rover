@@ -1,0 +1,9 @@
+C:\Projects\HB.Rover\HB.Rover.Core\bin\Debug\netcoreapp2.2\HB.Rover.Core.deps.json
+C:\Projects\HB.Rover\HB.Rover.Core\bin\Debug\netcoreapp2.2\HB.Rover.Core.dll
+C:\Projects\HB.Rover\HB.Rover.Core\obj\Debug\netcoreapp2.2\HB.Rover.Core.csproj.CoreCompileInputs.cache
+C:\Projects\HB.Rover\HB.Rover.Core\obj\Debug\netcoreapp2.2\HB.Rover.Core.AssemblyInfoInputs.cache
+C:\Projects\HB.Rover\HB.Rover.Core\obj\Debug\netcoreapp2.2\HB.Rover.Core.AssemblyInfo.cs
+C:\Projects\HB.Rover\HB.Rover.Core\bin\Debug\netcoreapp2.2\HB.Rover.Core.pdb
+C:\Projects\HB.Rover\HB.Rover.Core\obj\Debug\netcoreapp2.2\HB.Rover.Core.csprojAssemblyReference.cache
+C:\Projects\HB.Rover\HB.Rover.Core\obj\Debug\netcoreapp2.2\HB.Rover.Core.dll
+C:\Projects\HB.Rover\HB.Rover.Core\obj\Debug\netcoreapp2.2\HB.Rover.Core.pdb

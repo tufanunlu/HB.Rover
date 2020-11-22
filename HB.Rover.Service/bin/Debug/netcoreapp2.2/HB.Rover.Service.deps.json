@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "128bd1d7ca89aa3ca72f3408aae3dca85e46930e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "HB.Rover.Service/1.0.0": {
+        "dependencies": {
+          "HB.Rover.Core": "1.0.0"
+        },
+        "runtime": {
+          "HB.Rover.Service.dll": {}
+        }
+      },
+      "Stateless/5.1.5": {
+        "runtime": {
+          "lib/netstandard2.0/Stateless.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.1.5.0"
+          }
+        }
+      },
+      "HB.Rover.Core/1.0.0": {
+        "dependencies": {
+          "Stateless": "5.1.5"
+        },
+        "runtime": {
+          "HB.Rover.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HB.Rover.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stateless/5.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9Pmy/vn1LkKr4MjunyCJXTW8sv8yc1FO+jLY2ltZaOz4W1Sin8C4NIbaF9w+LMkZDZSSsAxsA+A4a9x5oemUAw==",
+      "path": "stateless/5.1.5",
+      "hashPath": "stateless.5.1.5.nupkg.sha512"
+    },
+    "HB.Rover.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

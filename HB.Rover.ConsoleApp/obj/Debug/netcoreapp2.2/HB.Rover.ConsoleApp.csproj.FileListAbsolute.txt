@@ -1,0 +1,17 @@
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.deps.json
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.runtimeconfig.json
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.runtimeconfig.dev.json
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.dll
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.pdb
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.Service.dll
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.Service.pdb
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.csprojAssemblyReference.cache
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.AssemblyInfo.cs
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.csproj.CopyComplete
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.dll
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\obj\Debug\netcoreapp2.2\HB.Rover.ConsoleApp.pdb
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.Core.dll
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\HB.Rover.Core.pdb
+C:\Projects\HB.Rover\HB.Rover.ConsoleApp\bin\Debug\netcoreapp2.2\cmd.txt

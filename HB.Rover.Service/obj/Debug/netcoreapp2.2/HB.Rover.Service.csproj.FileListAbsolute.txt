@@ -1,0 +1,12 @@
+C:\Projects\HB.Rover\HB.Rover.Service\bin\Debug\netcoreapp2.2\HB.Rover.Service.deps.json
+C:\Projects\HB.Rover\HB.Rover.Service\bin\Debug\netcoreapp2.2\HB.Rover.Service.dll
+C:\Projects\HB.Rover\HB.Rover.Service\bin\Debug\netcoreapp2.2\HB.Rover.Service.pdb
+C:\Projects\HB.Rover\HB.Rover.Service\bin\Debug\netcoreapp2.2\HB.Rover.Core.dll
+C:\Projects\HB.Rover\HB.Rover.Service\bin\Debug\netcoreapp2.2\HB.Rover.Core.pdb
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.csproj.CoreCompileInputs.cache
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.AssemblyInfoInputs.cache
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.AssemblyInfo.cs
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.csproj.CopyComplete
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.dll
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.pdb
+C:\Projects\HB.Rover\HB.Rover.Service\obj\Debug\netcoreapp2.2\HB.Rover.Service.csprojAssemblyReference.cache
