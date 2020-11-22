@@ -30,8 +30,7 @@ LMLMLMLMM
 MMRMMRMRRM");
 
             Assert.AreEqual(
-                @"1 3 N
-5 1 E", string.Join("\r\n", result));
+                @"1 3 N | 5 1 E", string.Join(" | ", result));
 
         }
 
@@ -48,9 +47,7 @@ MMRMMRMRRM
 MMRMMMMM");
 
             Assert.AreEqual(
-                @"1 3 N
-5 1 E
-1 6 N", string.Join("\r\n", result));
+                @"1 3 N | 5 1 E | 1 6 N", string.Join(" | ", result));
 
         }
 
